@@ -1,5 +1,6 @@
 exports.menu = (v) => {
   return `┌─⊷ *MAIN* 
+Canal de YouTube:https://youtube.com/c/Elcrackinformatico
 ▢ ${v}menuvc
 ▢ ${v}bot <text>
 ▢ ${v}info
